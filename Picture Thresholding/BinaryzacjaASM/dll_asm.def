@@ -1,0 +1,7 @@
+;------------------------------------------------------------------------- 
+LIBRARY BinaryzacjaASM
+EXPORTS CountSumASM
+		EditArrayASM 
+		CountSumASMSIMD 
+		EditArrayASMSIMD 
+;-------------------------------------------------------------------------

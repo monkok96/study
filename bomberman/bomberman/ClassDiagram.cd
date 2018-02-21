@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animation" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAABAAAAAIEAAAAAgAAAAAAAACAAAAAAAAAAAQQAAAA=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardElem" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAAAAAQAIAAAACAAAAAAAAAAAIAAACAAAAAAAQ=</HashCode>
+      <FileName>BoardElem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardFactory" Collapsed="true">
+    <Position X="25.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAAAAAAAAAICAAAEAAAAAAQAAAAAAQAAAAAEAAAAA=</HashCode>
+      <FileName>BoardFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BombBiggerDist" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BombBiggerDist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BombPlusPlus" Collapsed="true">
+    <Position X="21.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BombPlusPlus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardLoadingException" Collapsed="true">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextureLoadingException" Collapsed="true">
+    <Position X="25.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FontLoadingException" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtraHP" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtraHP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlantedBomb" Collapsed="true">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAACAIAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>PlantedBomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerKeys" Collapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAACAAAAAACAAAAAAAAIAAAAAAAQAgAAgAA=</HashCode>
+      <FileName>PlayerKeys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WallWithBombBiggerDist" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAACAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>WallWithBombBiggerDist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WallWithBombPlusPlus" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>WallWithBombPlusPlus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DynamicWall" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAgAAAAAA=</HashCode>
+      <FileName>DynamicWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmptyWall" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmptyWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WallWithExtraHP" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>WallWithExtraHP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="25.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAIQACIQAQEAAAAAABAiAAAAEAQACACEAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMABAAAAABAAgQAQAAAAEAAAAAIAAAIQAAAAAAAAAI=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="27.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BwFJAYIAgAwgACAAACAAMAlACAAGMgEIQRBgAYEoAAQ=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticWall" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>StaticWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetOut" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>GetOut.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IScreen" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>IScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScreen" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>GameScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Options" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMABAAAAAAAAgQAQAAAAEAABAAAAAAIQAAAAABAAAI=</HashCode>
+      <FileName>Options.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOver" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAAAAAAAgQAQAAAAAAABAAAAAAIAAAAAAAAAAI=</HashCode>
+      <FileName>GameOver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Config" Collapsed="true">
+    <Position X="24" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
